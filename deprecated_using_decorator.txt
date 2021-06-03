@@ -1,0 +1,630 @@
+sklearn.clone() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.calibration_curve() : _deprecate_positional_args
+sklearn.CalibratedClassifierCV.__init__() : _deprecate_positional_args
+sklearn.cluster.affinity_propagation() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cluster.AffinityPropagation.__init__() : _deprecate_positional_args
+sklearn.cluster.AffinityPropagation._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cluster.ward_tree() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.AgglomerativeClustering.__init__() : _deprecate_positional_args
+sklearn.cluster.FeatureAgglomeration.__init__() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.dbscan() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.DBSCAN.__init__() : _deprecate_positional_args
+sklearn.cluster.k_means() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.counts_() : deprecated # The attribute 'counts_' is deprecated in 0.24 and will be removed in 0.26.
+sklearn.cluster.init_size_() : deprecated # The attribute 'init_size_' is deprecated in 0.24 and will be removed in 0.26.
+sklearn.cluster.random_state_() : deprecated # The attribute 'random_state_' is deprecated in 0.24 and will be removed in 0.26.
+sklearn.cluster.KMeans.__init__() : _deprecate_positional_args
+sklearn.cluster.MiniBatchKMeans.__init__() : _deprecate_positional_args
+sklearn.cluster.estimate_bandwidth() : _deprecate_positional_args
+sklearn.cluster.mean_shift() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.MeanShift.__init__() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster.compute_optics_graph() : _deprecate_positional_args
+sklearn.cluster.cluster_optics_dbscan() : _deprecate_positional_args
+sklearn.cluster.OPTICS.__init__() : _deprecate_positional_args
+sklearn.cluster.discretize() : _deprecate_positional_args
+sklearn.cluster.spectral_clustering() : _deprecate_positional_args
+sklearn.cluster.__init__() : _deprecate_positional_args
+sklearn.cluster._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cluster.SpectralClustering.__init__() : _deprecate_positional_args
+sklearn.cluster.SpectralClustering._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.compose.__init__() : _deprecate_positional_args
+sklearn.compose.__init__() : _deprecate_positional_args
+sklearn.compose.ColumnTransformer.__init__() : _deprecate_positional_args
+sklearn.compose.make_column_selector.__init__() : _deprecate_positional_args
+sklearn.compose.__init__() : _deprecate_positional_args
+sklearn.compose.TransformedTargetRegressor.__init__() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.EllipticEnvelope.__init__() : _deprecate_positional_args
+sklearn.covariance.empirical_covariance() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.EmpiricalCovariance.__init__() : _deprecate_positional_args
+sklearn.covariance.graphical_lasso() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.grid_scores_() : deprecated # The grid_scores_ attribute is deprecated in version 0.24 in favor of cv_results_ and will be removed in version 0.26
+sklearn.covariance.cv_alphas_() : deprecated # The cv_alphas_ attribute is deprecated in version 0.24 in favor of cv_results_['alpha'] and will be removed in version 0.26
+sklearn.covariance.GraphicalLasso.__init__() : _deprecate_positional_args
+sklearn.covariance.GraphicalLassoCV.__init__() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.MinCovDet.__init__() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.ledoit_wolf() : _deprecate_positional_args
+sklearn.covariance.__init__() : _deprecate_positional_args
+sklearn.covariance.oas() : _deprecate_positional_args
+sklearn.covariance.ShrunkCovariance.__init__() : _deprecate_positional_args
+sklearn.covariance.LedoitWolf.__init__() : _deprecate_positional_args
+sklearn.covariance.OAS.__init__() : _deprecate_positional_args
+sklearn.cross_decomposition.norm_y_weights() : deprecated # Attribute norm_y_weights was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cross_decomposition.__init__() : _deprecate_positional_args
+sklearn.cross_decomposition.__init__() : _deprecate_positional_args
+sklearn.cross_decomposition.__init__() : _deprecate_positional_args
+sklearn.cross_decomposition.__init__() : _deprecate_positional_args
+sklearn.cross_decomposition.x_scores_() : deprecated # Attribute x_scores_ was deprecated in version 0.24 and will be removed in 0.26. Use est.transform(X) on the training data instead.
+sklearn.cross_decomposition.y_scores_() : deprecated # Attribute y_scores_ was deprecated in version 0.24 and will be removed in 0.26. Use est.transform(X, Y) on the training data instead.
+sklearn.cross_decomposition.PLSRegression.norm_y_weights() : deprecated # Attribute norm_y_weights was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cross_decomposition.PLSCanonical.norm_y_weights() : deprecated # Attribute norm_y_weights was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cross_decomposition.CCA.norm_y_weights() : deprecated # Attribute norm_y_weights was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.cross_decomposition.PLSSVD.norm_y_weights() : deprecated # Attribute norm_y_weights was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.datasets.fetch_openml() : _deprecate_positional_args
+sklearn.decomposition.sparse_encode() : _deprecate_positional_args
+sklearn.decomposition.dict_learning() : _deprecate_positional_args
+sklearn.decomposition.dict_learning_online() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.components_() : deprecated # The attribute 'components_' is deprecated in 0.24 and will be removed in 0.26. Use the 'dictionary' instead.
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.FactorAnalysis.__init__() : _deprecate_positional_args
+sklearn.decomposition.fastica() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.FastICA.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.IncrementalPCA.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.decomposition.KernelPCA.__init__() : _deprecate_positional_args
+sklearn.decomposition.KernelPCA._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.LatentDirichletAllocation.__init__() : _deprecate_positional_args
+sklearn.decomposition.non_negative_factorization() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.NMF.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.PCA.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.SparsePCA.__init__() : _deprecate_positional_args
+sklearn.decomposition.MiniBatchSparsePCA.__init__() : _deprecate_positional_args
+sklearn.decomposition.__init__() : _deprecate_positional_args
+sklearn.decomposition.TruncatedSVD.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.DummyClassifier.__init__() : _deprecate_positional_args
+sklearn.DummyRegressor.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble._warn_mae_for_criterion() : criterion='mae' was deprecated in version 0.24 and will be removed in version 0.26. Use criterion='friedman_mse' or 'mse' instead, as trees should use a least-square criterion in Gradient Boosting.,FutureWarning,warnings,
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble._warn_mae_for_criterion() : criterion='mae' was deprecated in version 0.24 and will be removed in version 0.26. The correct way of minimizing the absolute error is to use loss='lad' instead.,FutureWarning,warnings,
+sklearn.ensemble.n_classes_() : deprecated # Attribute n_classes_ was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.ensemble._hist_gradient_boosting.__init__() : _deprecate_positional_args
+sklearn.ensemble._hist_gradient_boosting.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.IsolationForest.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.ensemble.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.img_to_graph() : _deprecate_positional_args
+sklearn.feature_extraction.grid_to_graph() : _deprecate_positional_args
+sklearn.feature_extraction.extract_patches_2d() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.PatchExtractor.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.DictVectorizer.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.__init__() : _deprecate_positional_args
+sklearn.feature_extraction.FeatureHasher.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.SelectFromModel.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.RFE.__init__() : _deprecate_positional_args
+sklearn.feature_selection.RFECV.__init__() : _deprecate_positional_args
+sklearn.feature_selection.f_regression() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.feature_selection.__init__() : _deprecate_positional_args
+sklearn.gaussian_process.__init__() : _deprecate_positional_args
+sklearn.gaussian_process.__init__() : _deprecate_positional_args
+sklearn.gaussian_process.GaussianProcessClassifier.__init__() : _deprecate_positional_args
+sklearn.gaussian_process.__init__() : _deprecate_positional_args
+sklearn.gaussian_process.GaussianProcessRegressor.__init__() : _deprecate_positional_args
+sklearn.impute.__init__() : _deprecate_positional_args
+sklearn.impute.__init__() : _deprecate_positional_args
+sklearn.impute.__init__() : _deprecate_positional_args
+sklearn.impute.KNNImputer.__init__() : _deprecate_positional_args
+sklearn.inspection._plot.plot_partial_dependence() : _deprecate_positional_args
+sklearn.inspection._plot.__init__() : _deprecate_positional_args
+sklearn.inspection._plot.PartialDependenceDisplay.__init__() : _deprecate_positional_args
+sklearn.isotonic_regression() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.IsotonicRegression.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.KernelRidge.__init__() : _deprecate_positional_args
+sklearn.KernelRidge._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.BayesianRidge.__init__() : _deprecate_positional_args
+sklearn.linear_model.ARDRegression.__init__() : _deprecate_positional_args
+sklearn.linear_model.lasso_path() : _deprecate_positional_args
+sklearn.linear_model.enet_path() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.ElasticNet.__init__() : _deprecate_positional_args
+sklearn.linear_model.Lasso.__init__() : _deprecate_positional_args
+sklearn.linear_model.LinearModelCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.LassoCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.ElasticNetCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.MultiTaskElasticNet.__init__() : _deprecate_positional_args
+sklearn.linear_model.MultiTaskLasso.__init__() : _deprecate_positional_args
+sklearn.linear_model.MultiTaskElasticNetCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.MultiTaskLassoCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.HuberRegressor.__init__() : _deprecate_positional_args
+sklearn.linear_model.lars_path() : _deprecate_positional_args
+sklearn.linear_model.lars_path_gram() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.Lars.__init__() : _deprecate_positional_args
+sklearn.linear_model.LassoLars.__init__() : _deprecate_positional_args
+sklearn.linear_model.LarsCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.LassoLarsCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.LassoLarsIC.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.LogisticRegression.__init__() : _deprecate_positional_args
+sklearn.linear_model.LogisticRegressionCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.orthogonal_mp() : _deprecate_positional_args
+sklearn.linear_model.orthogonal_mp_gram() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.OrthogonalMatchingPursuit.__init__() : _deprecate_positional_args
+sklearn.linear_model.OrthogonalMatchingPursuitCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.PassiveAggressiveClassifier.__init__() : _deprecate_positional_args
+sklearn.linear_model.PassiveAggressiveRegressor.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.Perceptron.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.RANSACRegressor.__init__() : _deprecate_positional_args
+sklearn.linear_model.ridge_regression() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.Ridge.__init__() : _deprecate_positional_args
+sklearn.linear_model.RidgeClassifier.__init__() : _deprecate_positional_args
+sklearn.linear_model.RidgeCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.RidgeClassifierCV.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.standard_coef_() : deprecated # Attribute standard_coef_ was deprecated in version 0.23 and will be removed in 0.25.
+sklearn.linear_model.standard_intercept_() : deprecated # Attribute standard_intercept_ was deprecated in version 0.23 and will be removed in 0.25.
+sklearn.linear_model.average_coef_() : deprecated # Attribute average_coef_ was deprecated in version 0.23 and will be removed in 0.25.
+sklearn.linear_model.average_intercept_() : deprecated # Attribute average_intercept_ was deprecated in version 0.23 and will be removed in 0.25.
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.__init__() : _deprecate_positional_args
+sklearn.linear_model.TheilSenRegressor.__init__() : _deprecate_positional_args
+sklearn.manifold.__init__() : _deprecate_positional_args
+sklearn.manifold.Isomap.__init__() : _deprecate_positional_args
+sklearn.manifold.locally_linear_embedding() : _deprecate_positional_args
+sklearn.manifold.__init__() : _deprecate_positional_args
+sklearn.manifold.LocallyLinearEmbedding.__init__() : _deprecate_positional_args
+sklearn.manifold.smacof() : _deprecate_positional_args
+sklearn.manifold.__init__() : _deprecate_positional_args
+sklearn.manifold._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.manifold.MDS.__init__() : _deprecate_positional_args
+sklearn.manifold.MDS._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.manifold.spectral_embedding() : _deprecate_positional_args
+sklearn.manifold.__init__() : _deprecate_positional_args
+sklearn.manifold._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.manifold.SpectralEmbedding.__init__() : _deprecate_positional_args
+sklearn.manifold.SpectralEmbedding._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.manifold.trustworthiness() : _deprecate_positional_args
+sklearn.manifold.__init__() : _deprecate_positional_args
+sklearn.manifold.TSNE.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.plot() : _deprecate_positional_args
+sklearn.metrics._plot.plot_confusion_matrix() : _deprecate_positional_args
+sklearn.metrics._plot.ConfusionMatrixDisplay.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.ConfusionMatrixDisplay.plot() : _deprecate_positional_args
+sklearn.metrics._plot.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.plot() : _deprecate_positional_args
+sklearn.metrics._plot.plot_precision_recall_curve() : _deprecate_positional_args
+sklearn.metrics._plot.PrecisionRecallDisplay.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.PrecisionRecallDisplay.plot() : _deprecate_positional_args
+sklearn.metrics._plot.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.plot() : _deprecate_positional_args
+sklearn.metrics._plot.plot_roc_curve() : _deprecate_positional_args
+sklearn.metrics._plot.RocCurveDisplay.__init__() : _deprecate_positional_args
+sklearn.metrics._plot.RocCurveDisplay.plot() : _deprecate_positional_args
+sklearn.metrics.check_scoring() : _deprecate_positional_args
+sklearn.metrics.make_scorer() : _deprecate_positional_args
+sklearn.mixture.__init__() : _deprecate_positional_args
+sklearn.mixture.BayesianGaussianMixture.__init__() : _deprecate_positional_args
+sklearn.mixture.__init__() : _deprecate_positional_args
+sklearn.mixture.GaussianMixture.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.fit_grid_point() : deprecated # fit_grid_point is deprecated in version 0.23 and will be removed in version 0.25
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.model_selection.fit() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.__init__() : _deprecate_positional_args
+sklearn.model_selection.check_cv() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.__init__() : _deprecate_positional_args
+sklearn._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.MultiOutputRegressor.__init__() : _deprecate_positional_args
+sklearn.MultiOutputClassifier.__init__() : _deprecate_positional_args
+sklearn.ClassifierChain.__init__() : _deprecate_positional_args
+sklearn.RegressorChain.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.coef_() : deprecated # Attribute coef_ was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.intercept_() : deprecated # Attribute intercept_ was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.neighbors._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.NeighborsBase._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.KNeighborsMixin._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.RadiusNeighborsMixin._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.KNeighborsClassifier.__init__() : _deprecate_positional_args
+sklearn.neighbors.RadiusNeighborsClassifier.__init__() : _deprecate_positional_args
+sklearn.neighbors.kneighbors_graph() : _deprecate_positional_args
+sklearn.neighbors.radius_neighbors_graph() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.KNeighborsTransformer.__init__() : _deprecate_positional_args
+sklearn.neighbors.RadiusNeighborsTransformer.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.KernelDensity.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.LocalOutlierFactor.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.NeighborhoodComponentsAnalysis.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.NearestCentroid.__init__() : _deprecate_positional_args
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.KNeighborsRegressor.__init__() : _deprecate_positional_args
+sklearn.neighbors.KNeighborsRegressor._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.RadiusNeighborsRegressor.__init__() : _deprecate_positional_args
+sklearn.neighbors.RadiusNeighborsRegressor._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.neighbors.__init__() : _deprecate_positional_args
+sklearn.neighbors.NearestNeighbors.__init__() : _deprecate_positional_args
+sklearn.neural_network.__init__() : _deprecate_positional_args
+sklearn.neural_network.__init__() : _deprecate_positional_args
+sklearn.neural_network.__init__() : _deprecate_positional_args
+sklearn.neural_network.BernoulliRBM.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.__init__() : _deprecate_positional_args
+sklearn.Pipeline.__init__() : _deprecate_positional_args
+sklearn.Pipeline._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.FeatureUnion.__init__() : _deprecate_positional_args
+sklearn.FeatureUnion._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.preprocessing.scale() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.minmax_scale() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.maxabs_scale() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.robust_scale() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.normalize() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.binarize() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.quantile_transform() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.power_transform() : _deprecate_positional_args
+sklearn.preprocessing.MinMaxScaler.__init__() : _deprecate_positional_args
+sklearn.preprocessing.StandardScaler.__init__() : _deprecate_positional_args
+sklearn.preprocessing.MaxAbsScaler.__init__() : _deprecate_positional_args
+sklearn.preprocessing.RobustScaler.__init__() : _deprecate_positional_args
+sklearn.preprocessing.PolynomialFeatures.__init__() : _deprecate_positional_args
+sklearn.preprocessing.Normalizer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.Binarizer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.KernelCenterer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.QuantileTransformer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.PowerTransformer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.KBinsDiscretizer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.FunctionTransformer.__init__() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.preprocessing.label_binarize() : _deprecate_positional_args
+sklearn.preprocessing.__init__() : _deprecate_positional_args
+sklearn.johnson_lindenstrauss_min_dim() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.__init__() : _deprecate_positional_args
+sklearn.semi_supervised.__init__() : _deprecate_positional_args
+sklearn.semi_supervised.__init__() : _deprecate_positional_args
+sklearn.semi_supervised.__init__() : _deprecate_positional_args
+sklearn.semi_supervised.BaseLabelPropagation.__init__() : _deprecate_positional_args
+sklearn.semi_supervised.LabelPropagation.__init__() : _deprecate_positional_args
+sklearn.semi_supervised.LabelSpreading.__init__() : _deprecate_positional_args
+sklearn.svm._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.svm.BaseLibSVM._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.svm.BaseSVC._pairwise() : deprecated # Attribute _pairwise was deprecated in version 0.24 and will be removed in 0.26.
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.probA_() : deprecated # The probA_ attribute is deprecated in version 0.23 and will be removed in version 0.25.
+sklearn.svm.probB_() : deprecated # The probB_ attribute is deprecated in version 0.23 and will be removed in version 0.25.
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.__init__() : _deprecate_positional_args
+sklearn.svm.probA_() : deprecated # The probA_ attribute is deprecated in version 0.23 and will be removed in version 0.25.
+sklearn.svm.probB_() : deprecated # The probB_ attribute is deprecated in version 0.23 and will be removed in version 0.25.
+sklearn.svm.LinearSVC.__init__() : _deprecate_positional_args
+sklearn.svm.LinearSVR.__init__() : _deprecate_positional_args
+sklearn.svm.SVC.__init__() : _deprecate_positional_args
+sklearn.svm.NuSVC.__init__() : _deprecate_positional_args
+sklearn.svm.SVR.__init__() : _deprecate_positional_args
+sklearn.svm.NuSVR.__init__() : _deprecate_positional_args
+sklearn.svm.OneClassSVM.__init__() : _deprecate_positional_args
+sklearn.tree.__init__() : _deprecate_positional_args
+sklearn.tree.__init__() : _deprecate_positional_args
+sklearn.tree.__init__() : _deprecate_positional_args
+sklearn.tree.__init__() : _deprecate_positional_args
+sklearn.tree.__init__() : _deprecate_positional_args
+sklearn.tree.BaseDecisionTree.__init__() : _deprecate_positional_args
+sklearn.tree.DecisionTreeClassifier.__init__() : _deprecate_positional_args
+sklearn.tree.DecisionTreeRegressor.__init__() : _deprecate_positional_args
+sklearn.tree.ExtraTreeClassifier.__init__() : _deprecate_positional_args
+sklearn.tree.ExtraTreeRegressor.__init__() : _deprecate_positional_args
+sklearn.tree.plot_tree() : _deprecate_positional_args
+sklearn.tree.export_graphviz() : _deprecate_positional_args
+sklearn.tree.export_text() : _deprecate_positional_args
+sklearn.utils.safe_sqr() : _deprecate_positional_args
+sklearn.utils.gen_batches() : _deprecate_positional_args
+sklearn.utils.gen_even_slices() : _deprecate_positional_args
+sklearn.utils.get_chunk_n_rows() : _deprecate_positional_args
+numpy.core.warn_if_insufficient() : Insufficient bit width provided. This behavior will raise an error in the future.,width,width,binwidth,DeprecationWarning,warnings,
+numpy.ma._pickle_warn() : np.ma., is deprecated, use pickle., instead,DeprecationWarning,warnings,method,method,
+pandas.core.arrays.min() : deprecate_kwarg # skipna
+pandas.core.arrays.max() : deprecate_kwarg # skipna
+pandas.core.arrays.Categorical.min() : deprecate_kwarg # skipna
+pandas.core.arrays.Categorical.max() : deprecate_kwarg # skipna
+pandas.core.arrays.CategoricalAccessor.min() : deprecate_kwarg # skipna
+pandas.core.arrays.CategoricalAccessor.max() : deprecate_kwarg # skipna
+pandas.core.to_stata() : deprecate_kwarg # path
+pandas.core.to_feather() : deprecate_kwarg # path
+pandas.core.to_parquet() : deprecate_kwarg # path
+pandas.core.DataFrame.to_stata() : deprecate_kwarg # path
+pandas.core.DataFrame.to_feather() : deprecate_kwarg # path
+pandas.core.DataFrame.to_parquet() : deprecate_kwarg # path
+pandas.io.excel.read_excel() : deprecate_nonkeyword_arguments # 2.0
+pandas.io.read_html() : deprecate_nonkeyword_arguments # 2.0
+pandas.io.json.read_json() : deprecate_nonkeyword_arguments # path_or_buf
+pandas._config._warn_if_deprecated() : 
+    Checks if `key` is a deprecated option and if so, prints a warning.
+
+    Returns
+    -------
+    bool - True if `key` is deprecated, False otherwise.
+    ,',' is deprecated,, please refrain from using it., and will be removed in ,, please use ',' instead.,bool,d,d,str,_get_deprecated_option,key,d,msg,print,FutureWarning,d,msg,d,msg,msg,msg,FutureWarning,d,warnings,d,key,warnings,d,d,
+pandas.assert_produces_warning() : always,
+    Context manager for running code expected to either raise a specific
+    warning, or not raise any warnings. Verifies that the code raises the
+    expected warning, and that it does not raise any other unexpected
+    warnings. It is basically a wrapper around ``warnings.catch_warnings``.
+
+    Parameters
+    ----------
+    expected_warning : {Warning, False, None}, default Warning
+        The type of Exception raised. ``exception.Warning`` is the base
+        class for all warnings. To check that no warning is returned,
+        specify ``False`` or ``None``.
+    filter_level : str or None, default "always"
+        Specifies whether warnings are ignored, displayed, or turned
+        into errors.
+        Valid values are:
+
+        * "error" - turns matching warnings into exceptions
+        * "ignore" - discard the warning
+        * "always" - always emit a warning
+        * "default" - print the warning the first time it is generated
+          from each location
+        * "module" - print the warning the first time it is generated
+          from each module
+        * "once" - print the warning the first time it is generated
+
+    check_stacklevel : bool, default True
+        If True, displays the line that called the function containing
+        the warning to show were the function is called. Otherwise, the
+        line that implements the function is displayed.
+    raise_on_extra_warnings : bool, default True
+        Whether extra warnings not of the type `expected_warning` should
+        cause the test to fail.
+
+    Examples
+    --------
+    >>> import warnings
+    >>> with assert_produces_warning():
+    ...     warnings.warn(UserWarning())
+    ...
+    >>> with assert_produces_warning(False):
+    ...     warnings.warn(RuntimeWarning())
+    ...
+    Traceback (most recent call last):
+        ...
+    AssertionError: Caused unexpected warning(s): ['RuntimeWarning'].
+    >>> with assert_produces_warning(UserWarning):
+    ...     warnings.warn(RuntimeWarning())
+    Traceback (most recent call last):
+        ...
+    AssertionError: Did not see expected warning of class 'UserWarning'.
+
+    ..warn:: This is *not* thread-safe.
+    ,Did not see expected warning of class ,Caused unexpected warning(s): ,Warning not set with correct stacklevel. File where warning is raised: , != ,. Warning message: ,contextmanager,Warning,__tracebackhide__,w,saw_warning,extra_warnings,actual_warning,w,expected_warning,filter_level,w,msg,saw_warning,msg,raise_on_extra_warnings,extra_warnings,warnings,warnings,expected_warning,saw_warning,AssertionError,issubclass,expected_warning,check_stacklevel,caller,msg,msg,actual_warning,issubclass,getframeinfo,extra_warnings,repr,actual_warning,FutureWarning,DeprecationWarning,actual_warning,caller,actual_warning,actual_warning,actual_warning,expected_warning,repr,extra_warnings,actual_warning,caller,actual_warning,actual_warning,stack,
+scipy.sparse.matvec() : np # BSR matvec is deprecated in SciPy 0.19.0. Use * operator instead.
+scipy.sparse.matmat() : np # BSR matmat is deprecated in SciPy 0.19.0. Use * operator instead.
+scipy.sparse.bsr_matrix.matvec() : np # BSR matvec is deprecated in SciPy 0.19.0. Use * operator instead.
+scipy.sparse.bsr_matrix.matmat() : np # BSR matmat is deprecated in SciPy 0.19.0. Use * operator instead.
+scipy.stats.itemfreq() : np # `itemfreq` is deprecated and will be removed in a future version. Use instead `np.unique(..., return_counts=True)`
+lib.matplotlib.cbook._generate_deprecation_warning() : A pending deprecation cannot have a scheduled removal,two minor releases later, %(addendum)s,in {},., Use %(alternative)s instead.,2.2,3.0,3.1,in 3.1,in 3.2,in 3.3,
+The %(name)s %(obj_type)s, will be deprecated in a future version, was deprecated in Matplotlib %(since)s, and will be removed %(removal)s,pending,warning_cls,removal,removal,message,message,pending,PendingDeprecationWarning,MatplotlibDeprecationWarning,warning_cls,removal,removal,message,ValueError,removal,since,addendum,dict,alternative,name,name,obj_type,since,removal,alternative,addendum,pending,removal,
+lib.matplotlib.cbook.warn_deprecated() : 
+    Display a standardized deprecation.
+
+    Parameters
+    ----------
+    since : str
+        The release at which this API became deprecated.
+
+    message : str, optional
+        Override the default deprecation message.  The ``%(since)s``,
+        ``%(name)s``, ``%(alternative)s``, ``%(obj_type)s``, ``%(addendum)s``,
+        and ``%(removal)s`` format specifiers will be replaced by the values
+        of the respective arguments passed to this function.
+
+    name : str, optional
+        The name of the deprecated object.
+
+    alternative : str, optional
+        An alternative API that the user may use in place of the deprecated
+        API.  The deprecation warning will tell the user about this alternative
+        if provided.
+
+    pending : bool, optional
+        If True, uses a PendingDeprecationWarning instead of a
+        DeprecationWarning.  Cannot be used together with *removal*.
+
+    obj_type : str, optional
+        The object type being deprecated.
+
+    addendum : str, optional
+        Additional text appended directly to the final message.
+
+    removal : str, optional
+        The expected removal version.  With the default (an empty string), a
+        removal version is automatically computed from *since*.  Set to other
+        Falsy values to not schedule a removal date.  Cannot be used together
+        with *pending*.
+
+    Examples
+    --------
+    Basic example::
+
+        # To warn of the deprecation of "matplotlib.name_of_module"
+        warn_deprecated('1.4.0', name='matplotlib.name_of_module',
+                        obj_type='module')
+    ,warning,_generate_deprecation_warning,since,message,name,alternative,pending,obj_type,addendum,_warn_external,warning,removal,MatplotlibDeprecationWarning,
+lib.matplotlib.cbook._suppress_matplotlib_deprecation_warning() : ignore,contextlib,MatplotlibDeprecationWarning,warnings,warnings,
+lib.matplotlib.cbook.local_over_kwdict() : deprecated # normalize_kwargs
+lib.matplotlib.cbook.get_realpath_and_stat() : deprecated # os.path.realpath and os.stat
+seaborn.__init__() : _deprecate_positional_args
+seaborn.__init__() : _deprecate_positional_args
+seaborn.__init__() : _deprecate_positional_args
+seaborn.pairplot() : _deprecate_positional_args
+seaborn.jointplot() : _deprecate_positional_args
+seaborn.boxplot() : _deprecate_positional_args
+seaborn.violinplot() : _deprecate_positional_args
+seaborn.boxenplot() : _deprecate_positional_args
+seaborn.stripplot() : _deprecate_positional_args
+seaborn.swarmplot() : _deprecate_positional_args
+seaborn.barplot() : _deprecate_positional_args
+seaborn.pointplot() : _deprecate_positional_args
+seaborn.countplot() : _deprecate_positional_args
+seaborn.catplot() : _deprecate_positional_args
+seaborn.kdeplot() : _deprecate_positional_args
+seaborn.rugplot() : _deprecate_positional_args
+seaborn.heatmap() : _deprecate_positional_args
+seaborn.dendrogram() : _deprecate_positional_args
+seaborn.clustermap() : _deprecate_positional_args
+seaborn.lmplot() : _deprecate_positional_args
+seaborn.regplot() : _deprecate_positional_args
+seaborn.residplot() : _deprecate_positional_args
+seaborn.lineplot() : _deprecate_positional_args
+seaborn.scatterplot() : _deprecate_positional_args
+seaborn.relplot() : _deprecate_positional_args
