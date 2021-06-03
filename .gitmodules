@@ -1,0 +1,23 @@
+[submodule "matplotlib"]
+	path = /matplotlib
+	url = https://github.com/matplotlib/matplotlib.git
+
+[submodule "numpy"]
+	path = /numpy
+	url = https://github.com/numpy/numpy.git
+
+[submodule "pandas"]
+	path = /pandas
+	url = https://github.com/pandas-dev/pandas.git
+
+[submodule "scikit-learn"]
+	path = /scikit-learn
+	url = https://github.com/scikit-learn/scikit-learn.git
+
+[submodule "scipy"]
+	path = /scipy
+	url = https://github.com/scipy/scipy.git
+
+[submodule "seaborn"]
+	path = /seaborn
+	url = https://github.com/mwaskom/seaborn.git
